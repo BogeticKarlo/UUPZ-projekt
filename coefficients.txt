@@ -1,0 +1,37 @@
+Club,Country,UEFA Five-Year Coefficient (2025)
+Real Madrid,ESP,131.500
+Bayern Munich,GER,124.250
+Inter Milan,ITA,121.250
+Manchester City,ENG,117.750
+Liverpool,ENG,115.500
+Paris Saint-Germain,FRA,109.500
+Borussia Dortmund,GER,98.750
+Bayer Leverkusen,GER,98.250
+Barcelona,ESP,96.250
+Arsenal,ENG,93.000
+Atlético Madrid,ESP,89.000
+Atalanta,ITA,81.000
+Juventus,ITA,80.000
+Benfica,POR,79.000
+Shakhtar Donetsk,UKR,63.000
+Club Brugge,BEL,64.000
+Feyenoord,NED,57.000
+Sporting CP,POR,54.500
+PSV Eindhoven,NED,54.000
+Dinamo Zagreb,CRO,50.000
+Salzburg,AUT,50.000
+Lille,FRA,47.000
+Red Star Belgrade,SRB,40.000
+Celtic,SCO,32.000
+Monaco,FRA,24.000
+Aston Villa,ENG,20.860
+Bologna,ITA,17.999
+Girona,ESP,17.847
+Stuttgart,GER,17.324
+Sturm Graz,AUT,14.500
+Brest,FRA,13.366
+Slovan Bratislava,SVK,30.500
+Young Boys,SUI,34.500
+Qarabağ,AZE,33.000
+Sparta Prague,CZE, (approx 20-30 range)
+Salzburg (duplicate?),AUT,50.000
